@@ -1,0 +1,17 @@
+{
+  "name": "socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asynquence": "^0.8.2",
+    "asynquence-contrib": "^0.11.0",
+    "minimist": "^1.2.0",
+    "socket.io": "^0.9.16"
+  }
+}
